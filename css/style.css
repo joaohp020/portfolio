@@ -355,6 +355,29 @@ span {
     cursor: pointer;
 }
 
+#whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+}
+
+#whatsapp-button a {
+    display: block;
+    font-size: 16px;
+    color: #fff;
+    background-color: #25d366;
+    text-align: center;
+    padding: 12px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.3);
+    text-decoration: none;
+}
+
+#whatsapp-button a i {
+    margin: 2px 4px;
+}
+
 
 /* Responsive */
 

@@ -46,3 +46,14 @@ ScrollReveal().reveal('.home-img, .services-container, .portfolio-box, .contato 
 ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
 ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
+//button of contato in the WhatsApp
+window.addEventListener('scroll', function() {
+    var whatsappButton = document.getElementById("whatsapp-button");
+    var scrollPosition = window.scrollY || document.documentElement.scrollTop;
+    if (scrollPosition > 300) {
+        whatsappButton.style.display = "block";
+    } else {
+        whatsappButton.style.display = "none";
+    }
+});
+
