@@ -122,7 +122,11 @@ span {
 }
 
 .home-content p {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
+}
+
+.home-content {
+    padding-right: 50px;
 }
 
 .social-media a {
