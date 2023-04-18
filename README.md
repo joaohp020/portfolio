@@ -4,7 +4,8 @@ Este projeto consiste em um portfólio pessoal, a fim de apresentar meus trabalh
 
 https://joaohp020.github.io/portfolio/
 
-![image](.img/previewPortfolio.png)
+![image](![image](https://user-images.githubusercontent.com/73555376/232798777-d84a7c48-c889-4af0-8a3b-953e13e3c8d5.png)
+)
 
 ## Desenvolvimento
 
