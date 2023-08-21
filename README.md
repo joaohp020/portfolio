@@ -4,8 +4,6 @@ Este projeto consiste em um portfólio pessoal, a fim de apresentar meus trabalh
 
 https://joaohp020.github.io/portfolio/
 
-![image](.img/previewPorfolio.png))
-
 ## Desenvolvimento
 
 Esse projeto foi desenvolvido com HTML, CSS e Javascript puro, com o intuito apenas de ter uma página simples como portfólio pessoal.
