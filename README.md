@@ -1,6 +1,6 @@
-# portfolio
+# Portfolio
 
-Este projeto consiste em um portfólio pessoal, a fim de apresentar meus trabalhos no ramo da programação.
+Este projeto consiste em um portfólio pessoal, a fim de apresentar meus trabalhos prestados como programador.
 
 https://joaohp020.github.io/portfolio/
 
@@ -11,4 +11,4 @@ Na mesma contém várias formas para entrar em contato diretamente comigo, a fim
 
 ## Feedback
 
-Caso tenha alguma sugestão de melhoria ou bug em determidada tela fique a vontade para me contatar e reportar o erro, para que eu possa corrigir. 
+Caso tenha alguma sugestão de melhoria em determidada tela fique a vontade para me contatar e reportar o erro, para que eu possa corrigir. 
