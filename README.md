@@ -1,6 +1,6 @@
 # Portfolio
 
-Este projeto consiste em um portfólio pessoal, a fim de apresentar meus trabalhos prestados como programador.
+Este projeto consiste em um portfólio pessoal, a fim de apresentar meus trabalhos prestados a clientes com as Skills de Programação.
 
 https://joaohp020.github.io/portfolio/
 
