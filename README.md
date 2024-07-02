@@ -1,14 +1,10 @@
 # Portfolio
-
-Este projeto consiste em um portfólio pessoal, a fim de apresentar meus trabalhos prestados a clientes com as Skills de Programação.
+This project is a personal portfolio designed to showcase my work for clients, highlighting my programming skills.
 
 https://joaohp020.github.io/portfolio/
 
-## Desenvolvimento
-
-Esse projeto foi desenvolvido com HTML, CSS e Javascript puro, com o intuito apenas de ter uma página simples como portfólio pessoal.
-Na mesma contém várias formas para entrar em contato diretamente comigo, a fim de solicitar meus serviços.
+## Development
+This project was developed using pure HTML, CSS, and JavaScript, aiming to have a simple personal portfolio page. It includes various ways to contact me directly to request my services.
 
 ## Feedback
-
-Caso tenha alguma sugestão de melhoria em determidada tela fique a vontade para me contatar e reportar o erro, para que eu possa corrigir. 
+If you have any suggestions for improvements on specific pages, feel free to contact me and report the issue so I can address it.
